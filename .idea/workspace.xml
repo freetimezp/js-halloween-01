@@ -22,7 +22,7 @@
     <list default="true" id="b21497c4-3e42-4bbb-a54d-8560db40f028" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665595118758</updated>
       <workItem from="1665595122371" duration="1198000" />
-      <workItem from="1665598193071" duration="2202000" />
+      <workItem from="1665598193071" duration="5207000" />
     </task>
     <servers />
   </component>
@@ -77,10 +77,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1665598188357">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1665601579040">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1665598188357" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1665601579040" />
     <state x="623" y="225" key="search.everywhere.popup" timestamp="1665598076940">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
